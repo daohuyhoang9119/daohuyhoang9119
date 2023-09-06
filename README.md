@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A technophile from Vietnam</h3>
 
-- 💬 Ask me about **react, angular**
+- 💬 Ask me about **software engineer**
 
 - 📫 How to reach me **daohuyhoang9119@gmail.com**
 
