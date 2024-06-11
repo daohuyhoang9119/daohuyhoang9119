@@ -1,4 +1,4 @@
-<h3 align="center"> I'm Ryan, a lifelong learner from Vietnam.</h3>
+<h3> I'm Ryan, a lifelong learner from Vietnam.</h3>
 </br>
 <h3> I'm a young hustler looking to make money not only through coding but also through other ventures 🏃</h3>
 
