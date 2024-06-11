@@ -1,4 +1,4 @@
-<h3 align="center"> I'm Ryan, a lifelong learner from Vietnam</h3>
+<h3 align="center"> I'm Ryan, a lifelong learner from Vietnam. I'm a young hustler looking to make money not only through coding but also through other ventures. 😁😁</h3>
 
 - 📫 How to reach me **daohuyhoang9119@gmail.com**
 
