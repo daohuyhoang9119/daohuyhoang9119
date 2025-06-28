@@ -1,6 +1,8 @@
 <h3> I'm Ryan, a lifelong learner from Vietnam.</h3>
 
-<p> I'm a young hustler looking to make money not only through coding but also through other ventures 🏃<p>
+<p> I recently graduated from the University of Information Technology in Vietnam with a background in Information Systems.
+I think about software engineering as a generic thing and don't lock myself to specific frameworks or categories (frontend, backend, web, etc.). I strive to understand how all components of software projects work. To me, a great software engineer can learn any tool or any language since "code is just code" and "algorithms are just algorithms", no matter what language they're implemented in.
+I’m always up for a challenge, a new project, or an opportunity to create something meaningful. Let’s connect, build cool stuff, and make an impact together!  🏃<p>
 
 - 📫 How to reach me **daohuyhoang9119@gmail.com**
 
